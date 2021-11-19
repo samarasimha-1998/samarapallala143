@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarapallala143
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently full stack java
+- 🌱 I’m currently learning full stack java
 
 
 <!---
